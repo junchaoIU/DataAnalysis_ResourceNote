@@ -4,7 +4,7 @@
 >
 > 仅供学术交流
 >
-> Author：@Junchao Wu
+> Author：@junchaoIU(wujunchaoIU@outlook.com)[https://github.com/junchaoIU]
 
 ## 爬虫+文本分析（基于爬虫）
 
@@ -22,3 +22,13 @@
 | cnocr | https://github.com/breezedeus/cnocr | 中英文OCR工具包，自带了多个训练好的识别模型（最小模型仅 `4.7M`），安装后即可直接使用。 |
 |       |                                     |                                                              |
 
+
+### 🌸关于作者
+🍧 Wu, Junchao
+
+有什么问题请致邮：wujunchaoIU@outlook.com,我会第一时间为你解答
+
+- 个人博客：🌸 春天与爱情の樱花
+- 博客园：🌸 梦淑の博客园
+- 语雀：🌸 CCの知识库
+如果我的项目对你有帮助，如果你对我的项目感兴趣,请帮我点个小星星star，感激！🍉
